@@ -1,0 +1,6 @@
+from datetime import timedelta
+SECRET_KEY = "CHANGE_ME_TO_A_RANDOM_SECRET"
+ALGORITHM = "HS256"
+ACCESS_TOKEN_EXPIRE_MINUTES = 60*24*7  # 7 days
+BASE_DIR = "data"
+REPORTS_DIR = "reports"
