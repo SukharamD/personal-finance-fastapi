@@ -116,6 +116,5 @@ Analytics
 * | GET | /analytics/summary | Monthly financial summary |
   
 Reports
-
 | POST | /reports/monthly | Generate & download PDF |
 | POST | /reports/monthly | Generate & download 
